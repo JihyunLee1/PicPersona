@@ -4,6 +4,10 @@
 
 This is the official code for [PicPersona-TOD](TBD), accepted in NAACL 2025
 
+**Jihyun Lee**, Yejin Jeon, Seungyeon Seo, Gary Geunbae Lee
+
+---
+
 ### Overview
 
 PicPersona-TOD is a dataset designed for generating personalized responses in task-oriented dialogue using image-based persona information.
