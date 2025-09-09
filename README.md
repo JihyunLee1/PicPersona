@@ -2,7 +2,7 @@
 
 ![Main Image](./assets/main.png)
 
-This is the official code for [PicPersona-TOD](TBD), accepted in NAACL 2025
+This is the official code for [PicPersona-TOD](TBD), accepted in NAACL 2025 Main
 
 **Jihyun Lee**, Yejin Jeon, Seungyeon Seo, Gary Geunbae Lee
 
